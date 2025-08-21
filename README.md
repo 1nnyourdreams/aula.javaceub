@@ -11,3 +11,4 @@ repositório para organizar os arquivos referentes a aula de programação em ja
 javac nome_do_arquivo.java 
 ./nome_do_programa
 ```
+## ▶️ Como exportar arquivos do Replit para o GitHub
